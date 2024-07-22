@@ -1,0 +1,48 @@
+Start date and time:22/07/2024 08:33:36
+Test location: Inside SAAO electronics lab
+Device under test: Ghana Receiver Stage 1
+Hot load location: On test feedhorn
+Cold reference: 10.70 (K)
+Hot reference: 302.43 (K) 28.28 (C)
+Sky conditions: cloud cover 10%
+Wind: slight wind
+Comments: 
+22/07/2024 08:33:36 	 Logging started 
+22/07/2024 08:33:49 	 SA RBW set to AUTO 0, RBW = 3000000000.00 KHz 
+22/07/2024 08:33:49 	 SA VBW set to AUTO 0, VBW = 3000000000.00 KHz 
+22/07/2024 08:33:50 	 SA trace mode set to WRIT 
+22/07/2024 08:33:50 	 detector: RMS 
+22/07/2024 08:33:50 	 SA amplitude reference level set to REF -20.00 dBm 
+22/07/2024 08:33:50 	 SA input attenuator set to 5.0 dB 
+22/07/2024 08:34:36 	 Starting hot load measurement 
+22/07/2024 08:34:51 	 Starting cold load measurement 
+22/07/2024 08:36:57 	 Starting hot load measurement 
+22/07/2024 08:37:08 	 Starting cold load measurement 
+22/07/2024 08:42:36 	 Starting hot load measurement 
+22/07/2024 08:42:45 	 Starting cold load measurement 
+22/07/2024 08:43:42 	 Starting hot load measurement 
+22/07/2024 08:43:52 	 Starting cold load measurement 
+22/07/2024 08:45:19 	 Starting hot load measurement 
+22/07/2024 08:45:28 	 Starting cold load measurement 
+22/07/2024 08:48:38 	 SA RBW set to AUTO 0, RBW = 3000000000.00 KHz 
+22/07/2024 08:48:38 	 SA VBW set to AUTO 0, VBW = 3000000.00 KHz 
+22/07/2024 08:48:38 	 SA trace mode set to WRIT 
+22/07/2024 08:48:38 	 detector: RMS 
+22/07/2024 08:48:38 	 SA amplitude reference level set to REF -20.00 dBm 
+22/07/2024 08:48:38 	 SA input attenuator set to 5.0 dB 
+22/07/2024 08:49:20 	 SA RBW set to AUTO 0, RBW = 3000000000.00 Hz 
+22/07/2024 08:49:20 	 SA VBW set to AUTO 0, VBW = 3000000.00 Hz 
+22/07/2024 08:49:20 	 SA trace mode set to WRIT 
+22/07/2024 08:49:20 	 detector: RMS 
+22/07/2024 08:49:21 	 SA amplitude reference level set to REF -20.00 dBm 
+22/07/2024 08:49:21 	 SA input attenuator set to 5.0 dB 
+22/07/2024 08:50:05 	 SA RBW set to AUTO 0, RBW = 3000000000.00 Hz 
+22/07/2024 08:50:05 	 SA VBW set to AUTO 0, VBW = 3000000.00 Hz 
+22/07/2024 08:50:05 	 SA trace mode set to WRIT 
+22/07/2024 08:50:05 	 detector: RMS 
+22/07/2024 08:50:05 	 SA amplitude reference level set to REF -20.00 dBm 
+22/07/2024 08:50:05 	 SA input attenuator set to 5.0 dB 
+22/07/2024 08:50:10 	 Starting hot load measurement 
+22/07/2024 08:50:23 	 Starting cold load measurement 
+22/07/2024 08:52:18 	 Starting hot load measurement 
+22/07/2024 08:52:32 	 Starting cold load measurement 

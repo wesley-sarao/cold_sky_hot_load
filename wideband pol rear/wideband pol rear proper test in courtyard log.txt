@@ -1,0 +1,10 @@
+Start date and time:22/07/2024 10:51:54
+Test location: SAAO Courtyard
+Device under test: Ghana Receiver Stage 1 Mk3
+Hot load location: On test feedhorn
+Cold reference: 2.74 (K)
+Hot reference: 289.15 (K) 15.00 (C)
+Sky conditions: clear
+Wind: none
+Comments: 
+22/07/2024 10:51:54 	 Logging started 

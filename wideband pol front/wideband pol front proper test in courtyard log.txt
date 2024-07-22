@@ -1,0 +1,18 @@
+Start date and time:22/07/2024 10:26:15
+Test location: SAAO Courtyard
+Device under test: Ghana Receiver Stage 1 Mk3
+Hot load location: On test feedhorn
+Cold reference: 3.00 (K)
+Hot reference: 289.15 (K) 15.00 (C)
+Sky conditions: clear
+Wind: none
+Comments: 
+22/07/2024 10:26:15 	 Logging started 
+22/07/2024 10:26:22 	 SA RBW set to AUTO 0, RBW = 3000000000.00 Hz 
+22/07/2024 10:26:22 	 SA VBW set to AUTO 0, VBW = 1000000.00 Hz 
+22/07/2024 10:26:22 	 SA trace mode set to WRIT 
+22/07/2024 10:26:22 	 detector: RMS 
+22/07/2024 10:26:22 	 SA amplitude reference level set to REF -40.00 dBm 
+22/07/2024 10:26:22 	 SA input attenuator set to 5.0 dB 
+22/07/2024 10:26:35 	 Starting hot load measurement 
+22/07/2024 10:26:59 	 Starting cold load measurement 

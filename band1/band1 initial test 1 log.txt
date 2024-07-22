@@ -1,0 +1,10 @@
+Start date and time:22/07/2024 08:30:50
+Test location: SAAO electronics lab
+Device under test: Ghana Receiver Stage 1
+Hot load location: in store room 6
+Cold reference: 10.70 (K)
+Hot reference: 302.43 (K) 28.28 (C)
+Sky conditions: cloud cover 10%
+Wind: slight wind
+Comments: 
+22/07/2024 08:30:50 	 Logging started 
